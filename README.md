@@ -9,6 +9,7 @@ SQL Server được sử dụng làm hệ quản trị cơ sở dữ liệu quan
 
 2. SSIS (SQL Server Integration Services)
 SSIS được sử dụng cho các quy trình trích xuất, chuyển đổi và tải (ETL). Các luồng công việc ETL được thiết kế để:
+
 -Trích xuất dữ liệu từ các hệ thống nguồn khác nhau như cơ sở dữ liệu vận hành của bệnh viện và các tệp bên ngoài.
 -Chuyển đổi dữ liệu để đáp ứng các yêu cầu của sơ đồ kho dữ liệu, bao gồm làm sạch dữ liệu, loại bỏ trùng lặp và chuẩn hóa.
 -Tải dữ liệu đã chuyển đổi vào kho dữ liệu.
